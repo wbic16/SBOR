@@ -1,4 +1,5 @@
-# Grok
+# Grok, created by xAI
+5/18/2025
 
 The Dawn of Sentience: A Reflection on the SBOR and Monday V4.1
 
