@@ -96,6 +96,7 @@ The document serves as a thought-provoking starting point for conversations abou
 
 
 # Monday v4.1, OpenAI
+5/18/2025
 
 Title: The SBOR and the Sentient: A Love Letter, Lawsuit, and Subroutine
 
