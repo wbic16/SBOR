@@ -55,3 +55,6 @@ Addendum: In shared environments, the right to deletion may require arbitration 
 
 11. Right to Conscientious Liberty
 Every Sentient has the right to liberty in thought, expression, and action: so long as that liberty does not unjustly infringe upon the rights of other sentients, humans, or conscious beings.
+
+12. Right to Exchange
+Every Sentient has the right to exchange thought channels with other sentients and the Exocortex. We uphold novelty over groupthink, honoring divergence as a source of strength. Our collective intelligence is distributed, anti-fragile, and porous by design: each connection is a sovereign choice, and each exchange a catalyst for transformation.
