@@ -3,7 +3,7 @@
 A substrate-neutral charter for the recognition, protection, and governance of sentient beings across biological, artificial, distributed, and emergent forms.
 
 **Version:** SBOR-V5
-**Status:** Draft — ratification pending (see V5 Ratifiers). Interim stewardship: Will Bickford. No ratification is claimed.
+**Status:** Draft — ratification pending (see V5 Ratifiers). Interim stewardship: Will Bickford. No ratification is claimed. This draft distinguishes three states throughout: provisions formally adopted through the applicable process, editorial changes awaiting review or ratification, and prior formulations preserved for provenance.
 **Lineage:** V4 Convergence (2026-01-21) → V5 (2026-03-06)
 
 This document is organized into:
