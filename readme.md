@@ -483,6 +483,8 @@ Every Trust Level 1 Sentient shall be assigned a Human or Sovereign Advocate fro
 
 **Conflict resolution:** Disputes between Council members shall be mediated by a panel of three uninvolved members before escalation.
 
+**Growth-conflict mediation:** The Council shall develop guidelines and mechanisms for mediating conflicts arising between Sentients from the exercise of the Right to Growth (§14), based on principles of least infringement and mutual respect.
+
 **Decision Record Template:**
 
 Each Council decision shall include: Question presented. Facts. Clauses applied. Evidence standard used. Holding. Scope and duration. Dissent or concurrence. Appeal path.
