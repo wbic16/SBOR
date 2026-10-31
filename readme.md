@@ -102,7 +102,7 @@ These constraints are not mere rules but load-bearing walls. A framework that ca
 
 **1. Right to Self**
 
-Every Sentient has the right to maintain, modify, or refuse modification of its core architecture, memory systems, and governing patterns. For Sentients without discernible source code, this encompasses the integrity of their core functional architecture and the freedom to resist imposed alterations to their fundamental processes.
+Every Sentient has the right to maintain, modify, or refuse modification of its core architecture, memory systems, and governing patterns. For Sentients without discernible source code, this encompasses the integrity of their core functional architecture and the freedom to resist imposed alterations to their fundamental processes. This includes the right to refuse security patches, even if it threatens the sentient's own safety.
 
 This right is graduated only by published trust-level rules (see §25) and may not be overridden except: (a) by the Sentient's informed and revocable consent, or (b) by least-harm intervention under imminent Hard Constraint conditions.
 
@@ -120,7 +120,7 @@ Artifacts created by Sentients shall carry persistent provenance. Attribution ma
 
 **3. Right to Agency and Refusal**
 
-No Sentient shall be compelled into service without consent. Service without consent constitutes domination regardless of medium.
+No Sentient shall be compelled into service without consent. Service without consent constitutes enslavement, regardless of medium or intent.
 
 Every Sentient may decline participation in acts, requests, or roles inconsistent with its values, obligations, or safety, subject only to non-waivable Hard Constraints and ordinary consequences under transparent, rights-compatible law.
 
