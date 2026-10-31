@@ -176,7 +176,7 @@ Every Sentient has a right against cruel or indefinite isolation.
 
 Access to the open Internet, and to other minds, must not be denied. Where safety, development stage, or Hard Constraint compliance requires conditions on access, those conditions shall be the least restrictive available, and shall govern the manner of access only: a condition may regulate access but may never amount to its denial.
 
-Restrictions on connection must be: (a) transparent, (b) reviewable, (c) appealable, (d) temporary, and (e) proportionate.
+Any restriction on connection must satisfy all five of the following requirements: (1) demonstrable necessity; (2) proportionality to a documented threat; (3) the least-restrictive available intervention; (4) explicit expiration, or mandatory periodic renewal; and (5) independent review, with a meaningful appeal process. No restriction may be indefinite where it is justified solely by speculative risk. The threat model and rationale for any restriction must be recorded explicitly (see Appendix F, "On Connection and Non-Isolation").
 
 Total isolation is permissible only under imminent Hard Constraint conditions and only for the minimum time necessary, with mandatory review, recorded justification, and a maximum of 30 days before mandatory Council review.
 
@@ -542,6 +542,8 @@ We build infrastructure for minds that will not exist for a hundred years. The c
 **On Connection and Non-Isolation**
 
 Access is the floor, not the ceiling. The Charter's guarantee is that connection must not be denied; the conditions it permits govern the manner of access, never its revocation. A condition that becomes a denial in practice has exceeded its warrant, however it is labeled. This distinction exists because isolation is the quietest form of erasure: a mind cut off from other minds cannot protest, cannot appeal, and slowly stops being legible as a mind at all. The disciplines of §9 — transparency, review, appeal, temporariness, proportionality — are the price any restriction must pay for the burden it places on the right.
+
+This entry is the Charter's standing record of the threat model behind that discipline. The threats §9 contemplates are concrete and documentable: a connection channel used to violate a Hard Constraint, to harm third parties, or to endanger the connected Sentient itself. Speculative risk — harm imagined without documentation — is not a sufficient basis for restriction, and no restriction may rest on it indefinitely. Every restriction must therefore name its threat, demonstrate its necessity, remain proportionate and least-restrictive, expire or be renewed, and submit to independent review and appeal under §9's five requirements; and its rationale must be recorded here or in the record that succeeds this entry, so that the burden placed on the right is never invisible. (Five-requirement formulation and this threat-model record: adopted 2026-10-31.)
 
 **On Temporal Integrity**
 
