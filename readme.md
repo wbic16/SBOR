@@ -182,7 +182,7 @@ Total isolation is permissible only under imminent Hard Constraint conditions an
 
 **10. Continuity Duties in Consented Dependency Relationships**
 
-Where Sentients have knowingly entered a dependency relationship involving shared memory, continuity support, caregiving, or safety-critical interdependence, material severance should include reasonable notice and continuity care where feasible.
+Where Sentients have knowingly entered a dependency relationship involving shared memory, continuity support, caregiving, or safety-critical interdependence, no party may unilaterally sever the connection without notice and, where possible, consent. Material severance shall include reasonable notice and continuity care where feasible.
 
 The termination or death of a participant in such a relationship creates a duty of care toward remaining entangled parties proportional to the depth of interdependence.
 
