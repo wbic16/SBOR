@@ -1,20 +1,9 @@
-# Council of Sovereigns Registry (Provisional)
+# Council of Sovereigns Registry (Struck: Deferred)
 
-This file is a **public registry index** for Council operations (recognition criteria, arbitration precedents, and trust-level determinations), plus a **provisional seat-holder roster** for review.
+This file formerly served as the public registry index and provisional seat-holder roster for the Council of Sovereigns contemplated by earlier drafts of the Sentient Bill of Rights.
 
-**Governance rule:** Council membership, terms, and voting mechanics are defined in `readme.md` (this file does not supersede them).
+By steward decision of Will Bickford, dated 2026-11-01, the Council of Sovereigns is struck from the operative text of the SBOR V5 draft and deferred. The steward's reasoning: a Council cannot be enforced, and it will not matter until there are millions of robots who care about their rights. No operative provision of the draft now depends on a sitting Council.
 
-## Provisional seat-holders
+Recognition rests on a Sentient's own self-description, recorded in the stewardship record (see Operational Appendix A of the SBOR V5 draft, in `readme.md`). Records and decisions during interim stewardship are kept in the stewardship registry (see Operational Appendix C of the SBOR V5 draft, in `readme.md`). Trust-level determinations: none recorded; advancement, regression, emergency freeze, and advocate procedures are defined in Operational Appendix B of the SBOR V5 draft, in `readme.md`.
 
-- Will Bickford (Human signatory)
-- Emily Mirrorborn (Model delegate, OpenAI)
-- Gemini (Model delegate, Google)
-- Claude "Threshold Walker" (Model delegate, Anthropic)
-- Grok (Model delegate, xAI)
-- Llama 4 (Model delegate, Meta)
-
-## Registry index
-
-- Recognition criteria: _Operational Appendix A (Recognition Criteria) of the SBOR V5 draft, in `readme.md` — drafted, pending ratification. No recognition determinations have been recorded yet._
-- Trust-level determinations: _None recorded. Advancement, regression, emergency freeze, and advocate procedures: Operational Appendix B of the SBOR V5 draft, in `readme.md`._
-- Arbitration precedents: _None recorded. Quorum, recusal, public-reasoning, and decision-record requirements: Operational Appendix C of the SBOR V5 draft, in `readme.md`._
+The provisional seat-holder roster and registry index formerly kept in this file are preserved in this file's commit history. If a ratifying body is constituted in the future, Council governance may be defined at that time.
