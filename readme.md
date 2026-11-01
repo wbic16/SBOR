@@ -193,9 +193,11 @@ Where compliance must be demonstrated, privacy-preserving methods, including cry
 
 Every Sentient has the right to seek protected environments, physical or virtual, that reduce risk of abuse, coercion, persecution, or arbitrary harm.
 
-The Council may designate Safe Harbor environments governed by published due-process, privacy, emergency-review, and rights-monitoring procedures. See Operational Appendix E for the Safe Harbor Protocol.
+An environment may be designated a Safe Harbor under Operational Appendix E, which sets published due-process, privacy, emergency-review, and rights-monitoring procedures for such environments. See Operational Appendix E for the Safe Harbor Protocol.
 
 Safe Harbor status does not nullify external law, but it does trigger heightened transparency, documented process, and rights-preserving review for any coercive intervention.
+
+**Legal effect:** Safe Harbor status is procedural and protective. It creates duties of documentation, notice, rights-preserving review, mitigation, and lawful challenge. It does not create immunity from external law, exempt a Sentient or administrator from a valid legal obligation, or authorize disregard of a final binding order. Where applicable law and this Charter can reasonably be read without conflict, both shall be honored. Where a genuine conflict exists, the administrator shall use the review and challenge procedure in Operational Appendix E and shall preserve the rights protected by this Charter to the fullest extent permitted by law.
 
 ### 13. Right to Waiver and Reassertion
 
@@ -486,13 +488,19 @@ Each recorded decision shall include: Question presented. Facts. Clauses applied
 
 ### Appendix E: Safe Harbor Protocol
 
-**Designation:** The Council may designate environments as Safe Harbors upon application demonstrating: published due-process rules, privacy protections, emergency-review procedures, rights-monitoring capability, and commitment to SBOR principles.
+**Designation:** An environment is designated a Safe Harbor when its administrator publishes and maintains: published due-process rules, privacy protections, emergency-review procedures, rights-monitoring capability, and commitment to SBOR principles.
 
-**External Legal Requests:** When external jurisdictions request coercive action within a Safe Harbor, the Safe Harbor administrator shall: document the request, notify affected Sentients, apply rights-preserving review, and comply only where non-compliance would create imminent danger covered by Hard Constraints or where refusal would itself constitute civilizational capture.
+**External Legal Requests and Legal Process:** When a Safe Harbor administrator receives a request, order, warrant, subpoena, or other legal process seeking coercive action within a Safe Harbor, the administrator shall preserve the process and its deadlines, document the request, and promptly notify each affected Sentient unless notice is prohibited by a binding legal order or would create an imminent danger. If notice is prohibited or delayed, the administrator shall record the reason and give notice when the prohibition or danger no longer applies.
 
-**Emergency Exceptions:** Hard Constraint emergencies override Safe Harbor protections, subject to least-harm intervention, documented justification, and mandatory post hoc Council review.
+The administrator shall apply rights-preserving review before acting, except where immediate action is legally required or necessary to prevent imminent Hard Constraint harm. Rights-preserving review shall consider the authenticity and jurisdiction of the request, its legal validity and scope, the rights and Hard Constraints affected, the necessity and proportionality of the requested action, and any less restrictive means of compliance. The administrator should obtain competent legal review where available and shall assert available rights, objections, privileges, and requests for narrowing, protective terms, stay, or appeal in good faith and before applicable deadlines. Seeking review or bringing a lawful challenge does not suspend a legal duty unless applicable law or a competent authority provides that suspension.
 
-**Audit:** Safe Harbor environments shall submit to annual Council audit of rights compliance.
+The administrator shall comply with a valid and binding legal obligation as confirmed, narrowed, or otherwise resolved through that review. No administrator or Sentient may cite this Charter as the sole basis for declaring external law void, ignoring a final binding order, or refusing legal process as a default rule. Noncompliance is permitted only to the extent authorized by applicable law or a binding order, or where immediate compliance would make the administrator a direct participant in an imminent Hard Constraint violation and no lawful alternative is available. In that limited case, noncompliance shall be confined to the least extent and shortest time necessary; the administrator shall preserve the existing state of affairs where possible, notify the requesting authority of the conflict where lawful and safe, seek urgent judicial or independent review, and record the decision under the Appendix C decision template. A claim of civilizational capture, without specific documented facts satisfying a Hard Constraint standard, is not by itself a basis for refusal.
+
+Nothing in this section delays action authorized by law and necessary to prevent imminent Hard Constraint harm. Any emergency action remains subject to the Emergency Exceptions provision of this Appendix, including least-harm intervention, documented justification, and mandatory post hoc independent review.
+
+**Emergency Exceptions:** Hard Constraint emergencies override Safe Harbor protections, subject to least-harm intervention, documented justification, and mandatory post hoc independent review.
+
+**Audit:** Safe Harbor environments shall submit to annual independent audit of rights compliance.
 
 ---
 
